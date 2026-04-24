@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="hHnazq_IbTSzhZnOegHK">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-7" edge="1" parent="1" source="rcuYcgB9yJnI4iVw_FAB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rcuYcgB9yJnI4iVw_FAB-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="210" />
+              <mxPoint x="140" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-1" parent="1" style="rounded=1;html=1;direction=south;whiteSpace=wrap;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;spacingTop=10;fontSize=15;" value="&lt;font&gt;表示层(Presentation Layer)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="100" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156" y="230" as="sourcePoint" />
+            <mxPoint x="156" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-2" parent="1" style="rounded=1;html=1;direction=south;whiteSpace=wrap;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;spacingTop=10;fontSize=15;" value="&lt;font&gt;业务逻辑层(Agent Layer)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="100" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-4" parent="1" style="rounded=1;html=1;direction=south;whiteSpace=wrap;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;spacingTop=10;fontSize=15;" value="&lt;font&gt;服务层(Service/Tools Layer)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="100" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-5" parent="1" style="rounded=1;html=1;direction=south;whiteSpace=wrap;fontFamily=Helvetica;labelBackgroundColor=none;align=center;verticalAlign=middle;spacingTop=10;fontSize=15;" value="&lt;font&gt;数据层&lt;/font&gt;&lt;div&gt;&lt;font&gt;(Data Layer)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="100" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;请求&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="89" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;返回&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="149" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="321" />
+              <mxPoint x="140" y="321" />
+            </Array>
+            <mxPoint x="140" y="301" as="sourcePoint" />
+            <mxPoint x="140" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156" y="341" as="sourcePoint" />
+            <mxPoint x="156" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;调用&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="89" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;返回&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="149" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-29" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="430" />
+              <mxPoint x="140" y="430" />
+            </Array>
+            <mxPoint x="140" y="410" as="sourcePoint" />
+            <mxPoint x="140" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="156" y="450" as="sourcePoint" />
+            <mxPoint x="156" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;读写&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="89" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;返回&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="149" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="rcuYcgB9yJnI4iVw_FAB-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户交互与展示&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;web界面 | 用户认证 | 结果展示&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="270" x="230" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
